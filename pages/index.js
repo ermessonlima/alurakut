@@ -15,9 +15,14 @@ function ProfileSidebar(props) {
 
 export default function Home() {
   const githubUser = 'ermessonlima';
-  const pessoasFavoritas = ['juunegreiros', 'omariosouto', 'peas', 'raballerini', 'marcobrunodev',
-    'felipe']
-
+  const pessoasFavoritas = [
+    'juunegreiros',
+    'omariosouto',
+    'peas',
+    'rafaballerini',
+    'marcobrunodev',
+    'felipefialho',
+  ]
   return (
     <>
       <AlurakutMenu />
